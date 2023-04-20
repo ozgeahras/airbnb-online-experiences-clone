@@ -1,5 +1,5 @@
 import React from "react";
-import grid from "../images/photo-grid.png";
+import grid from "../assets/photo-grid.png";
 
 export default function Hero() {
   return (

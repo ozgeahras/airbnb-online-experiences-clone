@@ -3,7 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "/airbnb-online-experiences-clone",
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
@@ -15,6 +17,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
+  "resolutions": {
+    "react-error-overlay": "6.0.9"
+  },
   "devDependencies": {
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
@@ -24,6 +29,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "gh-pages": "5.0.0",
+    "react-error-overlay": "6.0.9",
     "vite": "^4.3.0"
   }
 }
