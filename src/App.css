@@ -33,6 +33,8 @@ section {
 .hero {
   display: flex;
   flex-direction: column;
+  align-content: flex-start;
+  flex-wrap: wrap;
 }
 
 .hero--photo {
