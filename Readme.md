@@ -17,10 +17,12 @@
 
 ### How to run
 
+```
 git clone https://github.com/ozgeahras/airbnb-online-experiences-clone.git
 cd ..airbnb-online-experiences-clone
 npm install
 npm run dev
+```
 
 ## Author
 
