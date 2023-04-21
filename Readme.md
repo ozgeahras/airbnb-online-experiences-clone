@@ -52,7 +52,7 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/ozgeahras/airbnb-online-experiences-clone/main/images/screenshot.png)
+![App Screenshot](https://github.com/ozgeahras/airbnb-online-experiences-clone/blob/master/src/assets/screenshot.png)
 
 ## About Me
 
