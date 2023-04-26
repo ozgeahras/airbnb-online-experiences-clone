@@ -12,7 +12,7 @@
 ### Links & Demo
 
 - [Github Repo](https://github.com/ozgeahras/airbnb-online-experiences-clone)
-- [Demo](https://ozgeahras.github.io/twitter-clone/)
+- [Demo](https://ozgeahras.github.io/airbnb-online-experiences-clone/)
 
 ## Author
 
@@ -47,8 +47,6 @@ Start the app
 ```bash
 npm run dev
 ```
-
-
 
 ## Screenshots
 
